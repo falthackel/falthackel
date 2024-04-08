@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 I'm Farrel Jonathan Vickeldo.<br>
-- 🔭 I’m currently a senior at Institut Teknologi Bandung in Biomedical Engineering major
+- 🔭 I’m currently a senior in BME @ ITB
 - 🌱 I’m currently learning Machine Learning and Product Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/falthackel/)
 - ⚡ Skills: Data Science, Project Management, Public Speaking, Machine Learning
+
+### GitHub Statistic
+<p align="left">
+<a href="https://github.com/falthackel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
