@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Farrel Jonathan Vickeldo.<br>
+- 🔭 I’m currently a senior at Institut Teknologi Bandung in Biomedical Engineering major
+- 🌱 I’m currently learning Machine Learning and Product Development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/falthackel/)
+- ⚡ Skills: Data Science, Project Management, Public Speaking, Machine Learning
