@@ -22,9 +22,10 @@ I'm Farrel Jonathan Vickeldo.<br>
 - ⚡ Skills: Data Science, Project Management, Public Speaking, Machine Learning
 
 ### GitHub Statistic
+[![GitHub Streak](https://streak-stats.demolab.com/?user=falthackel&theme=dark)](https://git.io/streak-stats)
 <p align="left">
 <a href="https://github.com/falthackel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=falthackel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=falthackel&layout=compact&theme=algolia"/>
 </a>
 </p>
