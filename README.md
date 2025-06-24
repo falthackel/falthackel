@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I'm Farrel Jonathan Vickeldo.<br>
-- 🔭 I’m currently a fresh graduate from BME ITB
-- 🌱 I’m currently learning NLP and LLM
+- 🔭 I’m currently an AI Engineer in Startup
+- 🌱 I’m currently working in many CV projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/falthackel/)
 - ⚡ Skills: Data Science, Project Management, Public Speaking, Machine Learning
 
